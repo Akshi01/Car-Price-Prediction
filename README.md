@@ -8,7 +8,7 @@ The goal of this project is to develop a machine learning model that can predict
 
 ## Data Description
 
-![Data Description](data_description.png)
+![Data Description](https://imgur.com/ohNoYbA)
 
 The dataset used for this project includes various attributes of cars, including type of carbody, enginetype, horsepower, mileage on highway as well as city, etc.
 
